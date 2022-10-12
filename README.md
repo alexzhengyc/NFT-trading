@@ -7,7 +7,7 @@
 #### Function 
 
 1. Users can spend Ethereum to draw a celebrity card 
-2. Users can view the card they have drawn 
+2. Users can view the cards they have drawn 
 3. Users can trade cards in the trading market 
 
 
